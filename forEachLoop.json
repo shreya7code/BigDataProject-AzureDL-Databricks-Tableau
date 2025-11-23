@@ -20,11 +20,11 @@
 	"file_name":"olist_orders_dataset.csv"
 	},
 	{
-	"csv_relative_url": "BigDataProject-AzureDL-Databricks-Tableau/refs/heads/main/data/Data/olist_products_dataset.csv",
+	"csv_relative_url": "BigDataProject-AzureDL-Databricks-Tableau/refs/heads/main/data/olist_products_dataset.csv",
 	"file_name":"olist_products_dataset.csv"
 	},
 	{
-	"csv_relative_url": "BigDataProject-AzureDL-Databricks-Tableau/refs/heads/main/data/Data/olist_sellers_dataset.csv",
+	"csv_relative_url": "BigDataProject-AzureDL-Databricks-Tableau/refs/heads/main/data/olist_sellers_dataset.csv",
 	"file_name":"olist_sellers_dataset.csv"
 	}
 ]
